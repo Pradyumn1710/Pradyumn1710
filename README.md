@@ -33,12 +33,6 @@ A **Computer Science student specializing in AI/ML** at **IIIT Nagpur**, current
 
 ---
 
-### 📈 My GitHub Stats  
-![Pradyumn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradyumn1710&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyumn1710&layout=compact&theme=radical)
-
----
-
 ### 📫 How to Reach Me
 - **LinkedIn**: [Pradyumn on LinkedIn](https://www.linkedin.com/in/your-profile/)  
 - **Email**: [pradyumn@example.com](mailto:pradyumn@example.com)  
