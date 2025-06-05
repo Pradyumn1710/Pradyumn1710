@@ -1,50 +1,74 @@
-## Hi there 👋
+## 👋 Hi there!
 
-### I'm Pradyumn,  
-A **Computer Science student specializing in AI/ML** at **IIIT Nagpur**, currently in my third year. While my academic journey revolves around Artificial Intelligence and Machine Learning, my true passion lies in **web development**. I enjoy creating dynamic, user-focused applications and exploring the endless possibilities of full-stack development.
+### I'm Pradyumn
 
----
-
-### 🌟 About Me
-- 🔭 **What I’m working on:**  
-  Currently developing **[Skillio](https://github.com/Pradyumn1710/Skillio)**, a feature-rich course-selling platform where users can purchase courses and admins can manage them effectively. The project showcases secure JWT-based authentication, advanced MongoDB transactions, and clean UI design.
-
-- 🌱 **What I’m currently learning:**  
-  Expanding my expertise in **TypeScript**, **system design**, and advanced patterns in **React** to build scalable and maintainable web applications. While AI/ML remains a part of my curriculum, I am focused on integrating AI into web apps for real-world impact.
-
-- 👯 **What I’m looking to collaborate on:**  
-  Innovative projects involving **MERN stack**, **web-based AI tools**, or **open-source contributions** that solve real-world problems.
-
-- 💬 **Ask me about:**  
-  - Full-stack development with **MERN stack**  
-  - Secure authentication (JWT & sessions)  
-  - Database optimization with **Mongoose transactions**  
-  - Modern web styling using **Tailwind CSS**  
-  - Ideas for integrating AI/ML into web applications  
+A **Computer Science student at IIIT Nagpur**, currently in my fourth year, specializing in **AI/ML**. While my academics focus on artificial intelligence, my true passion lies in **Web Development** and **High-Performance Computing (HPC)**. I enjoy building powerful, user-focused web apps and optimizing complex algorithms to run fast on GPUs.
 
 ---
 
-### 🛠️ My Tech Stack
-- **Languages:** JavaScript, Python, C++  
-- **Frontend:** React, Redux, Tailwind CSS, HTML5/CSS3  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB (with Mongoose), PostgreSQL  
-- **Tools & Platforms:** Git, Docker, Postman, Firebase, Figma  
+### 🚀 Projects
+
+* 🔭 **[Second Brain](https://github.com/Pradyumn1710/SecondBrain)**
+  Inspired by Tiago Forte’s *Building a Second Brain*, this is a **Rack-based personal knowledge system** that integrates with a ChatGPT interface. It helps users store, retrieve, and interact with their thoughts, favorites, notifications, and more — turning scattered digital inputs into a streamlined, searchable second mind.
+
+* ⚙️ **Batched LU Decomposition on GPU**
+  A high-performance **LU factorization algorithm** optimized with CUDA, supporting batched matrix processing and GPU memory-level enhancements.
 
 ---
 
-### 📫 How to Reach Me
-- **LinkedIn**: [Pradyumn on LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- **Email**: [pradyumn@example.com](mailto:pradyumn@example.com)  
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)  
+### 📚 Currently Learning
+
+* **TypeScript** & scalable React design patterns
+* **CUDA** and GPU architecture fundamentals
+* Integrating **AI/ML into modern web apps**
+* Designing **fast numerical solvers** for scientific computing on GPUs
 
 ---
 
-### ⚡ Fun Facts
-- 🎬 Despite studying AI/ML, I’m deeply invested in building **user-first web applications**.  
-- 🌍 I love exploring new technologies and experimenting with creative design in my projects.  
-- 🤔 Fun challenge? I’m always up for brainstorming how AI can complement modern web apps.
+### 🤝 Looking to Collaborate On
+
+* Full-stack projects (especially **MERN stack**)
+* Web-based tools enhanced with **AI**
+* **High-performance computing** or numerical libraries
+* Open-source systems solving real-world problems
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to check out my repositories or reach out if you'd like to collaborate. Let’s create something awesome together! 🚀
+### 💬 Ask Me About
+
+* Building RESTful full-stack apps
+* Authentication flows (JWT, sessions, refresh tokens)
+* Mongoose & MongoDB performance tuning
+* Elegant UI with Tailwind CSS
+* CUDA, batching, and parallel GPU design patterns
+* Practical ideas for blending AI into web platforms
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** JavaScript, TypeScript, C++, CUDA
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Express
+* **Databases:** MongoDB (Mongoose), PostgreSQL
+* **Tools:** Git, Docker, Firebase, Postman, Figma
+
+---
+
+### 📫 Let’s Connect
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+* **Email:** [pradyumn@example.com](mailto:pradyumn@example.com)
+* **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+### ⚡ Fun Bits
+
+* 🧠 I love mixing AI and UX to create **thoughtful, responsive systems**
+* 🚀 Optimizing matrix ops on GPU is my idea of fun
+* 💡 Always up for a challenge — whether it’s debugging async code or racing threads on CUDA
+
+---
+
+Thanks for dropping by — check out my work and let’s build something exceptional together! 🌐
