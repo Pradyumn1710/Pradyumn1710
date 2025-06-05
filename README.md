@@ -8,8 +8,8 @@ A **Computer Science student at IIIT Nagpur**, currently in my fourth year, spec
 
 ### 🚀 Projects
 
-* 🔭 **[Second Brain](https://github.com/Pradyumn1710/SecondBrain)**
-  Inspired by Tiago Forte’s *Building a Second Brain*, this is a **Rack-based personal knowledge system** that integrates with a ChatGPT interface. It helps users store, retrieve, and interact with their thoughts, favorites, notifications, and more — turning scattered digital inputs into a streamlined, searchable second mind.
+* 🔭 **[Second Brain](https://github.com/Pradyumn1710/secondbrain)**
+  Inspired by Tiago Forte’s *Building a Second Brain*, this is a **RAG-based personal knowledge system** that integrates with a ChatGPT interface. It helps users store, retrieve, and interact with their thoughts, favorites, notifications, and more — turning scattered digital inputs into a streamlined, searchable second mind.
 
 * ⚙️ **Batched LU Decomposition on GPU**
   A high-performance **LU factorization algorithm** optimized with CUDA, supporting batched matrix processing and GPU memory-level enhancements.
@@ -58,8 +58,8 @@ A **Computer Science student at IIIT Nagpur**, currently in my fourth year, spec
 ### 📫 Let’s Connect
 
 * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* **Email:** [pradyumn@example.com](mailto:pradyumn@example.com)
-* **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+* **Email:** [pradyumn@example.com](mailto:pradyumn17.iiitn@gmail.com)
+* **Portfolio:** [your-portfolio.com](https://portfolio-v1-phi-five.vercel.app/)
 
 ---
 
