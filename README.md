@@ -9,7 +9,7 @@
 
 * 🧠 **[Second Brain](https://secondbrain.pradyumn.co.in)** – RAG-based personal knowledge system inspired by *Building a Second Brain*.
 * ⚡ **Batched LU Decomposition (CUDA)** – High-performance GPU-optimized LU factorization for batched matrices.
-* 🌐 **[Web3 Experiments](https://github.com/Peppo1710)** – Smart contracts & dApps exploring the decentralized stack.
+* 🌐 **[Web3 Experiments](https://github.com/Peppo1710)** – New Github for Smart contracts & dApps exploring the decentralized stack.
 
 ---
 
